@@ -13,9 +13,14 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github [THIS](htt
 ## Index
 
 * [Languages](#languagase)
+* [Digital Arts](#digital-arts)
+* [Technology](#technology)
 * [Programming](#programming)
+* [Web Design](#web-design)
 * [Game Dev](#game-dev)
 * [Cloud Technology](#cloud-technology)
+
+* [Online Events](#online-events)
 
 
 
@@ -23,6 +28,17 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github [THIS](htt
 
 * [Duolingo](https://www.duolingo.com) Learn new languagase with daily exercises (FREE)
 * [HelloTalk](https://www.hellotalk.com) Online multi-language chat (FREE)
+
+
+## Digital Arts
+
+* [Adobe Creative Cloud Tutorials](https://helpx.adobe.com/creative-cloud/tutorials-explore.html) Free Tutorials for Beginners and experienced artists (FREE)
+
+
+## Technology
+
+* [Microsoft Learn](https://docs.microoft.com/learn) Learn Microsoft Tools (FREE)
+* [NASA At Home](https://www.nasa.gov/specials/nasaathomr/index.html) Free E-Books, Virtual Tours, Videos and Podcasts (FREE)
 
 
 ## Programming
@@ -38,7 +54,12 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github [THIS](htt
 * [Flutter](https://flutter.dev/docs) Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. (FREE)
 * [Udacity Development Courses](https://www.udacity.com/courses/all) Online training and courses (30-Days free)
 * [Udemy Development Courses](https://www.udemy.com/courses/development/) Lifetime access to courses (Up to 95% discount on many courses)
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#arduino) More than 2000 free books (FREE)
 
+
+## Web Design
+
+* [Envato Free Web Design Courses](https://webdesign.tutsplus.com/courses#price=free) Many courses from developing and designing your website (FREE)
 
 
 ## Game Dev
@@ -53,4 +74,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github [THIS](htt
 
 * [Coursera Cloud Technology](https://www.coursera.org/promo/cloud-technology-free-courses)
 
+
+## Online Events
+
+* [HackForItaly](https://www.hackforitaly.online) National Hackathon to help Business, Medical issues and Technology ideas (FREE) [ITALIAN]
+* [COVID-19 Global Hackathon](https://covid-global-hackathon.devpost.com) Global Hackathon is an opportunity for developers to build software solutions that drive social impact (FREE) [GLOBAL]
 
