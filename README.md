@@ -51,6 +51,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github [THIS](htt
     * [React](https://reactjs.org/tutorial/tutorial.html) A Javascript library for building user interfaces (FREE)
     * [Node.js](https://nodejs.org/en/docs/guides/) Open Source Javascript runtime environment (FREE)
     * [This Dot Labs' Javascript Marathon](https://github.com/MoltenKhor/quarantine-courses) Every Wadnesday from April 1st JS, Angular, React, Vue RxJS and Web Performance live courses (FREE)
+    * [LearnReactWithMe](https://twitter.com/catalinmpit) Catalin Pit is sharing tweet-size lessons about React, Follow him! 
 * [Flutter](https://flutter.dev/docs) Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. (FREE)
 * [Udacity Development Courses](https://www.udacity.com/courses/all) Online training and courses (30-Days free)
 * [Udemy Development Courses](https://www.udemy.com/courses/development/) Lifetime access to courses (Up to 95% discount on many courses)
@@ -60,6 +61,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github [THIS](htt
 ## Web Design
 
 * [Envato Free Web Design Courses](https://webdesign.tutsplus.com/courses#price=free) Many courses from developing and designing your website (FREE)
+*[Free Code Camp Full-Stack Certification](https://www.freecodecamp.org/learn) 
 
 
 ## Game Dev
