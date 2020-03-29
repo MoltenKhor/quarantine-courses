@@ -38,7 +38,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github [THIS](htt
 ## Technology
 
 * [Microsoft Learn](https://docs.microoft.com/learn) Learn Microsoft Tools (FREE)
-* [NASA At Home](https://www.nasa.gov/specials/nasaathomr/index.html) Free E-Books, Virtual Tours, Videos and Podcasts (FREE)
+* [NASA At Home](https://www.nasa.gov/specials/nasaathome/index.html) Free E-Books, Virtual Tours, Videos and Podcasts (FREE)
 
 
 ## Programming
@@ -61,7 +61,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github [THIS](htt
 ## Web Design
 
 * [Envato Free Web Design Courses](https://webdesign.tutsplus.com/courses#price=free) Many courses from developing and designing your website (FREE)
-*[Free Code Camp Full-Stack Certification](https://www.freecodecamp.org/learn) 
+* [Free Code Camp Full-Stack Certification](https://www.freecodecamp.org/learn) 
 
 
 ## Game Dev
