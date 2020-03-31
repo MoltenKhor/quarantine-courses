@@ -50,7 +50,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github [THIS](htt
     * [Eloquent Javascript Book](https://www.pluralsight.com/browse/software-development/javascript?aid=7010a000002BZNLAA4) (FREE)
     * [React](https://reactjs.org/tutorial/tutorial.html) A Javascript library for building user interfaces (FREE)
     * [Node.js](https://nodejs.org/en/docs/guides/) Open Source Javascript runtime environment (FREE)
-    * [This Dot Labs' Javascript Marathon](https://github.com/MoltenKhor/quarantine-courses) Every Wadnesday from April 1st JS, Angular, React, Vue RxJS and Web Performance live courses (FREE)
+    * [This Dot Labs' Javascript Marathon](https://labs.thisdot.co/blog/free-web-performance-trainings-the-javascript-marathon-hosted-by-this-dot) Every Wadnesday from April 1st JS, Angular, React, Vue RxJS and Web Performance live courses (FREE)
     * [LearnReactWithMe](https://twitter.com/catalinmpit) Catalin Pit is sharing tweet-size lessons about React, Follow him! 
 * [Flutter](https://flutter.dev/docs) Flutter is Google’s UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. (FREE)
 * [Udacity Development Courses](https://www.udacity.com/courses/all) Online training and courses (30-Days free)
@@ -70,6 +70,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github [THIS](htt
 * [Unreal Engine 4](https://www.unrealengine.com/en-US/onlinelearning-courses) Epic's Game Engine (FREE)
 * [Unity](https://learn.unity.com) Unity Game Engine (3-Months Unity Learn Premium access)
 * [ZBrush](http://pixologic.com/zclassroom/) Pixologic's 3D sculpting software (FREE)
+* [UE4 & QUIXEL 3D Webinar](https://ue.unrealengine.com/Quixel_RegistrationLandingPage.html) Learn Quixel for Unreal Engine with this Webinar (April 2nd, registration required) (FREE)
 
 
 ## Cloud Technology
